@@ -1,0 +1,4 @@
+github.com/reiver/go-stringcase v0.0.0-20150131170254-b80b3ac9fc37 h1:UoJ0v+lfkegdrLGEnALjzfNCPA6H457qcrLk9RW4HsE=
+github.com/reiver/go-stringcase v0.0.0-20150131170254-b80b3ac9fc37/go.mod h1:GJn4IEegyIXqZVjCYblIccno1QdVZ4v0IAgKWqtPzKg=
+github.com/reiver/go-whitespace v1.0.0 h1:+xRDKXwKWK8VtVnICxh/iSk1iKu2GxfisZTV3sOG/rI=
+github.com/reiver/go-whitespace v1.0.0/go.mod h1:sJJrL83SlvhKTkFke2C7T8Zq5JgiLS344l28c4RLUyc=
